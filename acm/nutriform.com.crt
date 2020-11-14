@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            73:a8:f1:12:c5:15:41:3f:93:da:7d:7c:63:fe:3d:66
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=nutriform
+        Validity
+            Not Before: Nov  9 09:48:29 2020 GMT
+            Not After : Feb 12 09:48:29 2023 GMT
+        Subject: CN=nutriform.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ab:89:78:89:69:e1:24:4a:5d:99:e2:69:33:ec:
+                    64:93:90:28:23:12:34:3a:db:9b:7b:61:76:05:5b:
+                    32:2d:77:a5:8b:d4:1c:c7:6c:43:63:b0:41:92:40:
+                    7d:f2:8f:38:14:86:9a:54:0f:e3:14:54:df:f8:5b:
+                    9c:69:58:f1:6d:c9:fc:a2:21:61:c0:93:3a:ad:0a:
+                    f2:d3:5a:6b:c1:ac:b9:8f:7e:b0:f2:c4:14:e1:90:
+                    f2:d5:dc:d7:a5:00:7e:1f:14:e9:cf:73:a1:d0:76:
+                    b5:ab:fe:55:29:8b:0b:9c:38:25:1f:76:4d:b0:5e:
+                    65:04:68:da:82:f7:76:10:d6:3a:3b:a0:bd:db:13:
+                    5a:d9:54:9b:04:25:83:01:e7:08:80:48:66:32:77:
+                    d0:f6:cc:a6:e6:f7:ab:8a:44:b9:38:43:d1:65:7c:
+                    a0:0d:92:cc:9f:8d:c1:ac:89:8f:0e:8a:f9:be:6b:
+                    78:6a:2a:59:db:3b:da:8c:51:ba:ab:1d:4d:79:db:
+                    3e:16:12:25:61:ea:23:0f:82:06:18:6e:99:ae:df:
+                    4b:5c:d1:1e:b9:23:a4:95:b1:ad:e3:5b:e7:44:1c:
+                    e7:89:c0:12:ec:41:40:91:8c:e2:26:42:52:d7:60:
+                    ed:4c:e4:28:bc:b0:76:16:fc:8a:af:ec:d9:2a:26:
+                    2a:ff
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                E4:2B:67:8A:D7:E1:92:55:90:62:7C:BA:A2:EC:02:BE:C3:2C:71:CA
+            X509v3 Authority Key Identifier: 
+                keyid:70:77:16:A8:9C:A3:2F:20:A2:BB:CD:B7:F5:B9:0D:4C:59:F1:68:57
+                DirName:/CN=nutriform
+                serial:05:81:86:73:57:4E:E0:50:65:34:4D:22:0A:51:E8:4A:E5:D9:70:E2
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:nutriform.com
+    Signature Algorithm: sha256WithRSAEncryption
+         9b:4c:2a:37:a8:a1:79:2a:c9:e8:6d:3e:33:7e:af:37:3c:67:
+         79:4e:5d:3f:22:10:de:d3:30:0d:31:07:9d:a9:42:d9:fd:59:
+         c7:56:f5:e3:5b:e8:86:96:af:7e:a7:5a:aa:ad:8a:c1:af:8c:
+         ab:cb:31:78:7c:e7:a3:46:a6:21:2d:02:23:29:74:ae:02:42:
+         3a:58:8b:8e:80:b3:c4:56:bc:28:0a:46:84:3b:28:c1:9f:dc:
+         aa:1b:76:6c:77:7d:18:c9:54:9a:de:b0:e6:28:f7:1c:2b:6a:
+         49:a3:8e:16:f5:6c:13:f1:4d:9f:a0:cc:72:44:61:0b:77:bc:
+         c2:10:fb:37:25:cb:ac:91:c9:be:81:3b:91:62:1c:0f:53:18:
+         21:eb:f4:7c:43:e1:36:c6:c5:9b:bc:93:3c:13:e5:62:7a:b7:
+         2b:b8:ef:58:e7:f4:17:26:6b:bc:fb:2c:62:f5:26:33:00:80:
+         2f:8c:f0:78:70:20:fc:4b:31:db:0c:54:01:97:76:74:63:a5:
+         b4:48:f5:5a:01:dc:9b:f9:88:a5:a6:da:6a:90:68:0c:09:ce:
+         4d:d6:74:aa:10:0c:9f:e0:e4:63:c0:b2:a7:fb:8f:7a:94:96:
+         c5:13:ba:4a:3c:a1:28:39:73:a1:64:f7:13:ab:48:ff:bf:20:
+         48:20:d7:4d
+-----BEGIN CERTIFICATE-----
+MIIDcTCCAlmgAwIBAgIQc6jxEsUVQT+T2n18Y/49ZjANBgkqhkiG9w0BAQsFADAU
+MRIwEAYDVQQDDAludXRyaWZvcm0wHhcNMjAxMTA5MDk0ODI5WhcNMjMwMjEyMDk0
+ODI5WjAYMRYwFAYDVQQDDA1udXRyaWZvcm0uY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAq4l4iWnhJEpdmeJpM+xkk5AoIxI0Otube2F2BVsyLXel
+i9Qcx2xDY7BBkkB98o84FIaaVA/jFFTf+FucaVjxbcn8oiFhwJM6rQry01prway5
+j36w8sQU4ZDy1dzXpQB+HxTpz3Oh0Ha1q/5VKYsLnDglH3ZNsF5lBGjagvd2ENY6
+O6C92xNa2VSbBCWDAecIgEhmMnfQ9sym5verikS5OEPRZXygDZLMn43BrImPDor5
+vmt4aipZ2zvajFG6qx1Neds+FhIlYeojD4IGGG6Zrt9LXNEeuSOklbGt41vnRBzn
+icAS7EFAkYziJkJS12DtTOQovLB2FvyKr+zZKiYq/wIDAQABo4G6MIG3MAkGA1Ud
+EwQCMAAwHQYDVR0OBBYEFOQrZ4rX4ZJVkGJ8uqLsAr7DLHHKME8GA1UdIwRIMEaA
+FHB3Fqicoy8gorvNt/W5DUxZ8WhXoRikFjAUMRIwEAYDVQQDDAludXRyaWZvcm2C
+FAWBhnNXTuBQZTRNIgpR6Erl2XDiMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1Ud
+DwQEAwIFoDAYBgNVHREEETAPgg1udXRyaWZvcm0uY29tMA0GCSqGSIb3DQEBCwUA
+A4IBAQCbTCo3qKF5KsnobT4zfq83PGd5Tl0/IhDe0zANMQedqULZ/VnHVvXjW+iG
+lq9+p1qqrYrBr4yryzF4fOejRqYhLQIjKXSuAkI6WIuOgLPEVrwoCkaEOyjBn9yq
+G3Zsd30YyVSa3rDmKPccK2pJo44W9WwT8U2foMxyRGELd7zCEPs3Jcuskcm+gTuR
+YhwPUxgh6/R8Q+E2xsWbvJM8E+ViercruO9Y5/QXJmu8+yxi9SYzAIAvjPB4cCD8
+SzHbDFQBl3Z0Y6W0SPVaAdyb+YilptpqkGgMCc5N1nSqEAyf4ORjwLKn+496lJbF
+E7pKPKEoOXOhZPcTq0j/vyBIINdN
+-----END CERTIFICATE-----
